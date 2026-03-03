@@ -1,0 +1,6 @@
+@guild_romaAuth_HostAddress = http://localhost:5227
+
+GET {{guild_romaAuth_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
